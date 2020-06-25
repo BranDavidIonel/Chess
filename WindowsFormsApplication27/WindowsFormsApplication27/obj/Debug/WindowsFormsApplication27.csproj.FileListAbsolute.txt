@@ -1,0 +1,39 @@
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication27\WindowsFormsApplication27\bin\Debug\WindowsFormsApplication27.exe.config
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication27\WindowsFormsApplication27\bin\Debug\WindowsFormsApplication27.exe
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication27\WindowsFormsApplication27\bin\Debug\WindowsFormsApplication27.pdb
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.Form1.resources
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.Properties.Resources.resources
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.exe
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.pdb
+C:\Users\student\Desktop\WindowsFormsApplication27\WindowsFormsApplication27\bin\Debug\WindowsFormsApplication27.exe.config
+C:\Users\student\Desktop\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.exe
+C:\Users\student\Desktop\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.pdb
+C:\Users\student\Desktop\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.Form1.resources
+C:\Users\student\Desktop\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.Properties.Resources.resources
+C:\Users\student\Desktop\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\WindowsFormsApplication27\WindowsFormsApplication27\bin\Debug\WindowsFormsApplication27.exe
+C:\Users\student\Desktop\WindowsFormsApplication27\WindowsFormsApplication27\bin\Debug\WindowsFormsApplication27.pdb
+G:\poo sah\WindowsFormsApplication27\WindowsFormsApplication27\bin\Debug\WindowsFormsApplication27.exe.config
+G:\poo sah\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.exe
+G:\poo sah\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.pdb
+C:\Users\Utilizator\Desktop\poo sah2\WindowsFormsApplication27\WindowsFormsApplication27\bin\Debug\WindowsFormsApplication27.exe.config
+C:\Users\Utilizator\Desktop\poo sah2\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.exe
+C:\Users\Utilizator\Desktop\poo sah2\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.pdb
+C:\Users\Utilizator\Desktop\poo sah2\WindowsFormsApplication27\WindowsFormsApplication27\bin\Debug\WindowsFormsApplication27.exe
+C:\Users\Utilizator\Desktop\poo sah2\WindowsFormsApplication27\WindowsFormsApplication27\bin\Debug\WindowsFormsApplication27.pdb
+C:\Users\Utilizator\Desktop\poo sah2\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.csprojResolveAssemblyReference.cache
+C:\Users\Utilizator\Desktop\poo sah2\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.Form1.resources
+C:\Users\Utilizator\Desktop\poo sah2\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.Properties.Resources.resources
+C:\Users\Utilizator\Desktop\poo sah2\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.csproj.GenerateResource.Cache
+C:\Users\Utilizator\Desktop\david sah\WindowsFormsApplication27\WindowsFormsApplication27\bin\Debug\WindowsFormsApplication27.exe.config
+C:\Users\Utilizator\Desktop\david sah\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.exe
+C:\Users\Utilizator\Desktop\david sah\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.pdb
+C:\Users\Utilizator\Desktop\david sah\WindowsFormsApplication27\WindowsFormsApplication27\bin\Debug\WindowsFormsApplication27.exe
+C:\Users\Utilizator\Desktop\david sah\WindowsFormsApplication27\WindowsFormsApplication27\bin\Debug\WindowsFormsApplication27.pdb
+C:\Users\Utilizator\Desktop\david sah\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.csprojResolveAssemblyReference.cache
+C:\Users\Utilizator\Desktop\david sah\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.Form1.resources
+C:\Users\Utilizator\Desktop\david sah\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.Properties.Resources.resources
+C:\Users\Utilizator\Desktop\david sah\WindowsFormsApplication27\WindowsFormsApplication27\obj\Debug\WindowsFormsApplication27.csproj.GenerateResource.Cache
